@@ -1,6 +1,6 @@
 # Gender and Age Group Analysis of Mortality Patterns in Alberta
 
-Group Members: Osama Bilgrami​​, Graeme Ko​​, Umair Qureshi​​, Soyebal Saad Adnan​​, Ray Alsaidi
+Authors: Osama Bilgrami​​, Graeme Ko​​, Umair Qureshi​​, Soyebal Saad Adnan​​, Ray Alsaidi
 
 ##  Introduction
 Death is an indisputable fact of life, an unavoidable reality that is frequently veiled in silence. It is one of society's deepest taboos, owing to the enormous sentiments of terror and despair that it evokes. However, concealed behind this conundrum is a wealth of knowledge waiting to be explored. Extensive data has been methodically collected and analyzed over the years to unravel the complexities of its nature, causes, and chronology. Although we cannot avoid its inevitable embrace, we can embrace a deeper understanding and identify areas where improvements can be made. For our project, we will perform a gender and age group analysis of mortality patterns in Alberta. We have data spanning over a period of twenty years which will aid us in studying various death causes across all age groups and genders. There are many insights that can be extracted from this data, such as leading causes of death in a particular age group or ratio of deaths by accident in any given year. There are many layers to unfold, and we are determined to bring forth some essential insights.
